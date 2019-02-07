@@ -9,7 +9,7 @@ Os objetivos de aprendizagem dessa atividade são:
 
 Pesquisar três computadores:
 
-- 1 computador de 3000 a 4000 reais
+- 1 computador de 3000 a 4500 reais
 - 1 computador de 2000 a 3000 reais
 - 1 computador até 2000 reais
 
