@@ -16,6 +16,6 @@ Pesquisar três computadores:
 Para cada computador **registrar em um único google docs**:
 
 - Foto do computador
-- Especificações do computador
+- Especificações do computador (com preço)
 - Duas avaliações de usuários que compraram o computador
 
